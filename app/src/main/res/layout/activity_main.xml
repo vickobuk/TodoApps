@@ -16,8 +16,9 @@
         android:layout_height="wrap_content"
         android:text="Login!"
         android:textSize="50sp"
-        android:textColor="@drawable/ic_launcher_background"
-        android:textStyle="bold"
+        android:textColor="#810630"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
         />
 
 
